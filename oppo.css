@@ -1,0 +1,20 @@
+/* .navbar{
+    height : 60px;
+    padding :6px;
+} */
+
+.navbar img{
+    padding : 6px;
+}
+/* .card-img-overlay{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 2;
+}
+    */
+    
